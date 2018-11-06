@@ -7,7 +7,7 @@
         300
       ],
       "tensorPath": "https://raw.githubusercontent.com/jorgeperezrojas/jorgeperezrojas.github.io/master/common_emb.vec",
-      "metadataPath": "https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/jorgeperezrojas/jorgeperezrojas.github.io/master/common_emb.txt"
+      "metadataPath": "https://raw.githubusercontent.com/jorgeperezrojas/jorgeperezrojas.github.io/master/common_emb.txt"
     }
   ]
 }
